@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # EthWorkshop
 ETH Workshop
 =======
