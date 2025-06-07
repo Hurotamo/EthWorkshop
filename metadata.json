@@ -1,0 +1,19 @@
+{
+	"name": "Angel",
+	"description": "Angel is a beautiful and elegant name that symbolizes love and purity.",
+	"image": "https://rose-imaginative-lion-87.mypinata.cloud/ipfs/bafkreihbdlxosbk3r4exo4erkk7vyrshnokxcwdvojm6pufjigxnvvqfpe/coretoshi.png",
+	"attributes": [
+		{
+			"trait_type": "Angel",
+			"value": "Tin"
+		},
+		{
+			"trait_type": "Height",
+			"value": "7'11"
+		},
+		{
+			"trait_type": "Superpower",
+			"value": "Eye of Angel"
+		}
+	]
+}
